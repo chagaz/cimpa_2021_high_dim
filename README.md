@@ -1,5 +1,5 @@
 ## CIMPA Lomé 2021 ML & Health Chap 1-4: Feature selection in high dimension
-Notebooks for my course on feature selection in high dimension at the CIMPA Lomé 2021 school
+Notebooks for my course on feature selection in high dimension at the CIMPA Lomé 2021 school. With thanks to Vivien Goepp for his contribution.
 
 To use with Google Colab:
 * go to https://colab.research.google.com
